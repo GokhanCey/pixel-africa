@@ -156,7 +156,7 @@ npm run build
 
 • Live Demo: https://pixel-africa.vercel.app
 
-• Demo Video: https://youtu.be/7joHzZael3o• X / Twitter: https://x.com/PixelAfricaX
+• Demo Video: https://youtu.be/7joHzZael3o?si=8GShUz2KZi4elIym
 
 • X / Twitter: https://x.com/PixelAfricaX
 
