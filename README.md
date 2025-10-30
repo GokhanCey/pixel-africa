@@ -9,13 +9,6 @@ It helps hospitals, couriers, and donors track each blood bag from collection to
 
 ---
 
-## Vision
-
-Blood donation should always reach the people who need it.  
-PixelAfrica aims to make every drop count by providing a decentralized system that allows authorized organizations to monitor and verify each blood unit’s journey in real time.
-
----
-
 ## Motivation
 
 In many regions, donated blood doesn’t always make it to patients due to poor tracking and logistics.  
@@ -43,7 +36,6 @@ Each action — collection, transit, hospital testing, transfusion — is secure
 
 **Key features:**
 - Wallet-based role authentication using **HashConnect**
-- QR-based verification for transparency
 - Immutable event history with timestamps
 - No centralized storage or database required
 
@@ -177,7 +169,7 @@ npm run build
 
 ---
 
-## Hashgraph Developer Course - Certificate<img width="1268" height="126" alt="image" src="https://github.com/user-attachments/assets/f9f6dba2-7d53-4748-8e5f-eefd04926bba" />
+## Hashgraph Developer Course - Certificate
 
 <img width="1254" height="706" alt="image" src="https://github.com/user-attachments/assets/5341d8c2-cf81-45f4-a19e-216318ce4b41" />
 
