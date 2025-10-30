@@ -1,5 +1,8 @@
 # PixelAfrica
 
+<img width="1360" height="856" alt="image" src="https://github.com/user-attachments/assets/c704c779-23ec-40c3-8f6b-155bc2b7d3f2" />
+
+
 **One Pixel, One Life.**  
 PixelAfrica turns every donated blood unit into a digital record secured on Hedera Hashgraph.  
 It helps hospitals, couriers, and donors track each blood bag from collection to transfusion with full traceability.
@@ -73,6 +76,12 @@ Each event — registration, transit update, or hospital action — is written t
 
 ---
 
+## Architecture Diagram
+
+<img width="1376" height="568" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/1d750cd1-ce4c-4390-a6a7-d327fd6a5a21" />
+
+---
+
 ## Tech Stack
 
 | Layer | Technology |
@@ -120,17 +129,6 @@ npm run build
 
 ---
 
-## Deployment on Vercel
-
-1. Push the repository to GitHub (make sure it is public).  
-2. Import the project into Vercel and select **Vite** as the framework.  
-3. Set the build command to `npm run build`.  
-4. Set the output directory to `dist`.  
-5. Add environment variables in the project settings.  
-6. Click **Deploy**.  
-
----
-
 ## Roles and Permissions
 
 | Role | Authentication | Permissions |
@@ -174,15 +172,18 @@ npm run build
 
 • Pitch Deck: https://github.com/GokhanCey/pixel-africa/PitchDeck.pdf
 
+• Pitch Deck PDF: [PitchDeck.pdf](https://github.com/user-attachments/files/23235439/PitchDeck.pdf)
+
+
 ---
 
 ## Hashgraph Developer Course - Certificate<img width="1268" height="126" alt="image" src="https://github.com/user-attachments/assets/f9f6dba2-7d53-4748-8e5f-eefd04926bba" />
 
 <img width="1254" height="706" alt="image" src="https://github.com/user-attachments/assets/5341d8c2-cf81-45f4-a19e-216318ce4b41" />
 
+- b0e8127d-6eb1-4214-a3f8-ee623614d2e9
 
 ---
-
 
 ## Credits
 
