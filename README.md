@@ -164,7 +164,7 @@ npm run build
 
 • Source Code: https://github.com/GokhanCey/pixel-africa
 
-• Pitch Deck: https://github.com/GokhanCey/pixel-africa/PitchDeck.pdf
+• Pitch Deck: https://github.com/GokhanCey/pixel-africa/blob/main/PitchDeck.pdf
 
 • Pitch Deck (PDF): [PitchDeck.pdf](https://github.com/user-attachments/files/23235439/PitchDeck.pdf)
 
