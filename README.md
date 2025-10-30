@@ -70,6 +70,8 @@ Each event — registration, transit update, or hospital action — is written t
 
 ## Architecture Diagram
 
+- The diagram below illustrates data flow between the UI, HashConnect wallet, HCS topic, and Mirror Node.
+
 <img width="1376" height="568" alt="ArchitectureDiagram" src="https://github.com/user-attachments/assets/1d750cd1-ce4c-4390-a6a7-d327fd6a5a21" />
 
 ---
@@ -164,7 +166,7 @@ npm run build
 
 • Pitch Deck: https://github.com/GokhanCey/pixel-africa/PitchDeck.pdf
 
-• Pitch Deck PDF: [PitchDeck.pdf](https://github.com/user-attachments/files/23235439/PitchDeck.pdf)
+• Pitch Deck (PDF): [PitchDeck.pdf](https://github.com/user-attachments/files/23235439/PitchDeck.pdf)
 
 
 ---
