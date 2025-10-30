@@ -12,7 +12,7 @@ It helps hospitals, couriers, and donors track each blood bag from collection to
 ## Motivation
 
 In many regions, donated blood doesn’t always make it to patients due to poor tracking and logistics.  
-We wanted to build something that could be trusted — a system where hospitals, couriers, and collection centers work with transparent data shared on a distributed ledger, not in isolated systems or paper records.
+We wanted to build something that could be trusted, a system where hospitals, couriers, and collection centers work with transparent data shared on a distributed ledger, not in isolated systems or paper records.
 
 ---
 
@@ -32,7 +32,7 @@ These inefficiencies cost lives and damage trust in the medical supply chain.
 
 PixelAfrica establishes a verifiable trail for each blood unit.  
 Every bag is registered with key information (type, volume, expiry, responsible parties) and tracked on **Hedera Consensus Service (HCS)**.  
-Each action — collection, transit, hospital testing, transfusion — is securely recorded and retrieved via **Mirror Node APIs**.
+Each action (collection, transit, hospital testing, transfusion) is securely recorded and retrieved via **Mirror Node APIs**.
 
 **Key features:**
 - Wallet-based role authentication using **HashConnect**
@@ -56,7 +56,7 @@ Each action — collection, transit, hospital testing, transfusion — is secure
 ## System Architecture
 
 PixelAfrica runs entirely on the client side, without a traditional backend.  
-Each event — registration, transit update, or hospital action — is written to the **Hedera Consensus Service (HCS)** and later fetched from **Mirror Nodes** to display verified history.
+Each event (registration, transit update, or hospital action) is written to the **Hedera Consensus Service (HCS)** and later fetched from **Mirror Nodes** to display verified history.
 
 ---
 
@@ -93,7 +93,7 @@ Each event — registration, transit update, or hospital action — is written t
 
 ### 1. Clone the Repository
 ```bash
-git clone https://github.com/yourusername/pixel-africa.git
+git clone https://github.com/GokhanCey/pixel-africa.git
 cd pixel-africa
 ```
 
