@@ -164,31 +164,28 @@ npm run build
 
 ## Pitch Deck and Demo
 
-Pitch Deck: [Google Slides Link](https://link-to-your-pitchdeck)  
-Demo Video: [YouTube Demo Link](https://link-to-your-demo-video)
+• Live Demo: https://pixel-africa.vercel.app
+
+• Demo Video: https://youtu.be/7joHzZael3o• X / Twitter: https://x.com/PixelAfricaX
+
+• X / Twitter: https://x.com/PixelAfricaX
+
+• Source Code: https://github.com/GokhanCey/pixel-africa
+
+• Pitch Deck: https://github.com/GokhanCey/pixel-africa/PitchDeck.pdf
 
 ---
 
+## Hashgraph Developer Course - Certificate<img width="1268" height="126" alt="image" src="https://github.com/user-attachments/assets/f9f6dba2-7d53-4748-8e5f-eefd04926bba" />
+
+<img width="1254" height="706" alt="image" src="https://github.com/user-attachments/assets/5341d8c2-cf81-45f4-a19e-216318ce4b41" />
+
+
+---
+
+
 ## Credits
 
-Developed by **Gökhan Ceylan** and **Lorenzo Porcelli**  
 Built for **Hashgraph Hackathon 2025 – DLT for Social Impact**  
 Powered by **Hedera Hashgraph**, **HashConnect**, and **Mirror Node APIs**
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 Each interaction is stored and retrieved using Hedera’s distributed infrastructure.
-
