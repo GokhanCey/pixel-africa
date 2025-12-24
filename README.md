@@ -4,7 +4,7 @@
 
 
 **One Pixel, One Life.**  
-PixelAfrica turns every donated blood unit into a digital record secured on Hedera Hashgraph.  
+PixelAfrica turns every donated blood unit into a verifiable digital record secured on Hedera Hashgraph, demonstrated through a hackathon prototype focused on blood logistics traceability.
 It helps hospitals, couriers, and donors track each blood bag from collection to transfusion with full traceability.
 
 ---
@@ -178,6 +178,16 @@ npm run build
 - b0e8127d-6eb1-4214-a3f8-ee623614d2e9
 
 ---
+
+## Project Status
+
+PixelAfrica represents a functional hackathon prototype focused on demonstrating
+event-based traceability for blood logistics using Hedera.
+
+The project is currently under evaluation as part of the Hedera Africa Hackathon.
+Future iterations would be driven by regulatory alignment, institutional feedback,
+and pilot programs with transfusion services.
+
 
 ## Credits
 
